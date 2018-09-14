@@ -23,4 +23,5 @@ PREGUNTAS :
 	Para configurar las credenciales en git como el username usamos **git config --global user.name "John Doe"** y para agregar el email **git config --global user.email "johndoe@example.com"
 **
 
+Scrum Master: **Pedro Vega** 
 
